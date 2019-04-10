@@ -3,7 +3,9 @@
 
 #include <stdexcept>
 #include <iostream>
+#include<algorithm>
 #include <assert.h>
+#include<vector>
 
 #include "sort.h"
 #include "bubble.h"
